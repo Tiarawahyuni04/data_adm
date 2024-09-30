@@ -1,7 +1,9 @@
-pandas                : 2.2.3
-numpy                 : 2.1.1
-pytz                  : 2024.2
-dateutil              : 2.9.0.post0
-pip                   : 24.2
-seaborn as sns
-streamlit
+matplotlib ==3.9.2
+numpy==2.1.1
+pandas==2.2.2
+pillow==10.4.0
+plotly==5.24.1
+scikit-learn==1.5.2
+scipy==1.14.1
+seaborn==0.13.2
+streamlit==1.38.0
