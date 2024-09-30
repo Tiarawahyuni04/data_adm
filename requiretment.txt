@@ -4,3 +4,4 @@ pytz                  : 2024.2
 dateutil              : 2.9.0.post0
 pip                   : 24.2
 seaborn as sns
+streamlit
